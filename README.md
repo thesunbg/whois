@@ -1,3 +1,2 @@
 # whois
-whois domain
-test
+Đăng ký tên miền thông qua API
